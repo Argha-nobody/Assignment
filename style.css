@@ -303,3 +303,68 @@ border-radius: 16px;
     margin-left: 4px;
     
 }
+
+/* FOURTH SECTION STARTS HERE */
+
+.fourth-page
+{
+    font-family: Azeret Mono;
+    width: 1140px;
+    height: 463px;
+    margin: 80px 97px 80px 97px;
+}
+
+.fourth-head
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.fourth-pera
+{
+    margin: 24px 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(13, 19, 33);
+}
+
+.fourth-elements
+{
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.first-icon
+{
+    width: 450px;
+    height: 250px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.second-icon
+{
+    width: 450px;
+    height: 250px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.third-icon
+{
+    width: 450px;
+    height: 250px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
